@@ -84,6 +84,6 @@ quit
 
 ## Other Files
 * header.h and takeinput.h - for header files and declarations
-* main.c - the main file with init_shell() function for initialisation and quit_shell() function for exiting the shell
+* main.c - the main file with init_shell() function displays message upon initialisation and quit_shell() function displays message upon exiting the shell
 * takeinput.c - the input file
 * prompt.c - for displaying prompt
